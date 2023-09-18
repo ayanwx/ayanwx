@@ -1,6 +1,6 @@
 ## AyanW
 
-Hi I am Ayan. My skills are JS/TS, C & wasting time. I'm currently learning Unity + C# and working on a <a href="https://github.com/ayanwx/2dTopDownShooter">2D TopDown Shooter</a>.
+Hi I am Ayan. My skills are JS/TS, C & wasting time. I'm currently learning Rust + Bevy and working on a <a href="https://github.com/ayanwx/2dTopDownShooter">2D TopDown Shooter</a>. I use Arch btw.
 
 <table>
   <tr>
