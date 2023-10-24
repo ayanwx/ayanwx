@@ -1,6 +1,17 @@
 ## AyanW
 
-Hi I am Ayan. My skills are JS/TS, C & wasting time. I'm currently learning Rust + Bevy and working on a <a href="https://github.com/ayanwx/2dTopDownShooter">2D TopDown Shooter</a>. I use Arch btw.
+<img align="right" height="150" width="150" src="https://avatars.githubusercontent.com/u/126387932?v=4" />
+
+- Skills: JS/TS, C#
+- Currently learning: Blender, Godot
+- Want to learn: Unreal Engine
+- Hobbies: Linux ricing (I use Arch btw)
+- Socials:
+  - Discord: [ayan.w](https://discord.com/users/601613637551128623) (most active)
+  - X: [\_ayanw\_](https://twitter.com/_ayanw_)
+  - Reddit: [u/ayanwdev](https://www.reddit.com/user/ayanwdev)
+  - Artstation: [ayanwdev](https://www.artstation.com/ayanwdev) (checkout my artworks!)
+  - Mail: [ayanxdev@gmail.com](mailto:ayanxdev@gmail.com)
 
 <table>
   <tr>
@@ -12,8 +23,6 @@ Hi I am Ayan. My skills are JS/TS, C & wasting time. I'm currently learning Rust
     </td>
   </tr>
 </table>
-
-I'm mostly active on Discord: <a href="https://discord.com/users/601613637551128623">ayan.w</a>
 <!--
 **ayanwx/ayanwx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
