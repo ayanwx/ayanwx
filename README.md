@@ -1,7 +1,5 @@
 ## AyanW
 
-<img align="right" height="150" width="150" src="https://avatars.githubusercontent.com/u/126387932?v=4" />
-
 - Skills: JS/TS, C#
 - Currently learning: Blender, Godot
 - Want to learn: Unreal Engine
